@@ -1,0 +1,2 @@
+public class JavaLabSheet1 {
+}
